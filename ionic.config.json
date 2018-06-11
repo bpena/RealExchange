@@ -1,0 +1,8 @@
+{
+  "name": "RealExchage",
+  "app_id": "b8ebd9ce",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
